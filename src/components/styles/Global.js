@@ -9,7 +9,7 @@ export const GlobalStyles = createGlobalStyle`
     body{
         background-color: ${({ theme })=> theme.colors.body};
     }
-    img{
+    ${'' /* img{
         max-width: 100%;
-    }
+    } */}
 `

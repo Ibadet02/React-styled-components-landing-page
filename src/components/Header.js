@@ -21,7 +21,7 @@ export default function Header() {
                     you engage in genuine discussion.
                   </p>
 
-                  <Button bg='#ff0099' color='#fff'>
+                  <Button width='350px' bg='#ff0099' color='#fff'>
                     Get Started For Free
                   </Button>
               </div>

@@ -11,6 +11,7 @@ export const Button = styled.button`
     background-color: ${({bg})=>bg || '#fff'};
     color: ${({color})=>color || '#333'};
     transition: hover 300ms;
+    width: ${({width})=>width};
     &:hover{
         opacity: .9;
     }
